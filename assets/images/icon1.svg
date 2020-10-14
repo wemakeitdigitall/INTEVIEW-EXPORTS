@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.537" height="68.254" viewBox="0 0 86.537 68.254">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.015" y1="0.5" x2="0.617" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d6aa6e"/>
+      <stop offset="1" stop-color="#db9633"/>
+    </linearGradient>
+  </defs>
+  <g id="suitcase_2_2_" transform="translate(0 -54.086)">
+    <path id="Path_475" data-name="Path 475" d="M82.491,64.113H59.848V58.134A4.052,4.052,0,0,0,55.8,54.086H30.735a4.052,4.052,0,0,0-4.046,4.048v5.979H4.046A4.051,4.051,0,0,0,0,68.159V118.3a4.047,4.047,0,0,0,4.046,4.043H82.491a4.047,4.047,0,0,0,4.046-4.043V68.159A4.052,4.052,0,0,0,82.491,64.113ZM29.767,57.168h27v6.946h-27Zm53.693,62.1H3.078V67.193H83.46Z" fill="url(#linear-gradient)"/>
+    <path id="Path_476" data-name="Path 476" d="M85.3,211.585h55.146a1.538,1.538,0,0,0,0-3.077H85.3a1.538,1.538,0,1,0,0,3.077Z" transform="translate(-69.601 -128.322)" fill="url(#linear-gradient)"/>
+    <path id="Path_477" data-name="Path 477" d="M85.3,285.726h55.146a1.538,1.538,0,0,0,0-3.077H85.3a1.538,1.538,0,1,0,0,3.077Z" transform="translate(-69.601 -189.932)" fill="url(#linear-gradient)"/>
+    <path id="Path_478" data-name="Path 478" d="M85.3,359.882h55.146a1.538,1.538,0,0,0,0-3.077H85.3a1.538,1.538,0,1,0,0,3.077Z" transform="translate(-69.601 -251.554)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
